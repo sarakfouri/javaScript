@@ -10,7 +10,7 @@ class App extends Component {
         <a className="first-fusion"
           href="https://www.fuusiolabs.com"
            >
-          <img src={fuusiolabs} className="logo-fuusionlabs" alt="logo" />
+          <img src={fuusiolabs} className="logo-fuusiolabs" alt="logo" />
           </a>
           <h1>Hello World!</h1>
           <a
@@ -18,7 +18,7 @@ class App extends Component {
             href="https://www.fuusiolabs.com"
             target="_blank"
           >
-           <img src={fuusiolabs} className="logoFussionLabs" alt ="logo" />
+           <img src={fuusiolabs} className="fussiolabs-logo" alt ="logo" />
             
           </a>
         </header>
